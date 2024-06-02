@@ -35,7 +35,7 @@ const Home = () => {
           <ErrorMsg
             className="hidden md:flex"
             img={start_messaging_img}
-            msg="Start Messaging with ACMessenger"
+            msg="Start Messaging with KAKTUS 3.0"
             subMsg="Select a chat in your inbox to start messaging."
           />
         )}
